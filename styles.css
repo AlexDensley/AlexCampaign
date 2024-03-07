@@ -1,0 +1,64 @@
+.headerDiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.nameHeader{
+    text-align: center;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 50px;
+}
+
+.subHeader{
+    text-align: center;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 30px;
+    margin-top: -15px;
+}
+
+.fillerText{
+    text-align: center;
+}
+
+.aboutHeader{
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.infoText{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: -15px;
+}
+
+.electText{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: -15px;
+}
+
+.pictureDiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    width: 30%;
+}
+
+.reachOutText{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 25px;
+}
